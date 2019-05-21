@@ -34,6 +34,8 @@ public class StudentDemo {
     public void setName(String givenName) {
         name = givenName;
     }
-    
-    
+    public static void main(String[] args)
+    {
+    System.out.println("Final result");
+    }
 }
