@@ -15,7 +15,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class StudentDemo {
 
     private String name;
-
+    private int maxNoCoures;
     //constructor
     public StudentDemo(String givenName)
     {
