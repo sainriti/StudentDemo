@@ -36,6 +36,7 @@ public class StudentDemo {
     }
     public static void main(String[] args)
     {
+        System.out.println("Trial of merging");
     System.out.println("Final result");
     }
 }
